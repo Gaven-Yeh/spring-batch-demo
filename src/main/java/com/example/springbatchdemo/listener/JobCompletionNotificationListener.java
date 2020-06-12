@@ -1,5 +1,6 @@
-package com.example.springbatchdemo;
+package com.example.springbatchdemo.listener;
 
+import com.example.springbatchdemo.entity.Person;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.BatchStatus;
 import org.springframework.batch.core.JobExecution;

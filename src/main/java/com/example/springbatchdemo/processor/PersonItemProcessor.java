@@ -1,7 +1,7 @@
-package com.example.springbatchdemo;
+package com.example.springbatchdemo.processor;
 
+import com.example.springbatchdemo.entity.Person;
 import lombok.extern.slf4j.Slf4j;
-import org.slf4j.Logger;
 import org.springframework.batch.item.ItemProcessor;
 
 @Slf4j
